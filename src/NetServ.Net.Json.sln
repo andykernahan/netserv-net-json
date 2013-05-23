@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetServ.Net.Json", "NetServ.Net.Json.csproj", "{95B7294D-230D-4ADA-9330-FF4EBD154A29}"
 EndProject
 Global
